@@ -1,0 +1,14 @@
+1. 
+https://pokeapi.co/api/v2/pokemon/ditto
+
+2. 
+https://pokeapi.co/api/v2/pokemon/661
+
+3.
+https://pokeapi.co/api/v2/pokemon/dragonite
+
+4.
+https://pokeapi.co/api/v2/pokemon/mareep
+
+5.
+https://pokeapi.co/api/v2/pokemon/gyarados
